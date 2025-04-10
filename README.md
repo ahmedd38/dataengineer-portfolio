@@ -1,4 +1,15 @@
-# Data Engineer Portfolio Projects
+# 📊 Data Engineer Portfolio
+
+A practical portfolio of data engineering pipelines, orchestrated DAGs, and analytics notebooks. These projects demonstrate end-to-end ETL processes, real-time ingestion, data lake design, and Python-based transformations.
+
+## 📌 Highlights
+- Apache Airflow DAG orchestration
+- Batch and streaming ETL pipelines
+- Python & Pandas-based data wrangling
+- Data validation and unit testing
+- Jupyter notebooks with visual insights
+
+## Project List
 
 ## 1. Smart Grid IoT Data Pipeline
 
